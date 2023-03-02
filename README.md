@@ -1,3 +1,9 @@
+# Keeper App
+A web app for note taking
+
+<img width="1280" alt="keeper-app-screenshot" src="https://user-images.githubusercontent.com/57259205/222497861-5122d6d0-6a7b-413a-b315-a6bca41c59dc.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
